@@ -31,5 +31,6 @@ Apaixonado por tecologia. Gosto muito de enteder como as coisas funcionam, por i
 
 matheu_ric99@hotmail.com<br/>
 
+![snake gif]()
 
 
