@@ -31,6 +31,6 @@ Apaixonado por tecologia. Gosto muito de enteder como as coisas funcionam, por i
 
 matheu_ric99@hotmail.com<br/>
 
-![snake gif]()
+![snake gif](https://github.com/MatheusRic/MatheusRic/blob/output/github-contribution-grid-snake.svg)
 
 
