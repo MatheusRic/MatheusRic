@@ -25,7 +25,7 @@
 
 
 
-Apaixonado por tecologia. Gosto muito de enteder como as coisas funcionam, por isso, escolhi entrar no mundo DEV.
+Apaixonado por teclogia. Gosto muito de enteder como as coisas funcionam, por isso, escolhi entrar no mundo DEV.
 
 ## Contato
 
