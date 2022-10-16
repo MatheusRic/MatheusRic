@@ -6,7 +6,7 @@
 
 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRic&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRic&show_icons=true&theme=tokyonight&count_private=true)
 <img width="250px" alt="cyndaquil" src="https://media.tenor.com/Y_j25eacevEAAAAj/cyndaquil-lol.gif">
 
 ## Tecnologias que uso no meu dia
