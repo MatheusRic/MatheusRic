@@ -7,7 +7,7 @@
 
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRic&show_icons=true&theme=tokyonight&count_private=true)
-<img width="250px" alt="cyndaquil" src="[https://media.tenor.com/Y_j25eacevEAAAAj/cyndaquil-lol.gif](https://media4.giphy.com/media/tKdrtcwWTyoRd7KhPl/giphy.gif?cid=ecf05e477b6adgpzd3iv7t4ayiw1o9vrvuntaup365w3nzif&rid=giphy.gif&ct=g)">
+<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
 ## Tecnologias que uso no meu dia
 
