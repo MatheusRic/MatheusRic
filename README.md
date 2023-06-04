@@ -27,10 +27,6 @@
   <img alig="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div><br/>
 
-https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
-
-
-
 Apaixonado por teclogia. Gosto muito de enteder como as coisas funcionam, por isso, escolhi entrar no mundo DEV.
 
 ## Contato
